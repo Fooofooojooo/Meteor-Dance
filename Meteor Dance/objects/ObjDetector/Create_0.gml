@@ -4,3 +4,5 @@ spawned = false;
 
 warning_time = room_speed * 2; //how long star glows before meteor
 start_x = x;
+
+depth = 0;
