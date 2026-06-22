@@ -19,6 +19,7 @@
   },
   "name":"Meteor Dance",
   "resources":[
+    {"id":{"name":"FntScore","path":"fonts/FntScore/FntScore.yy",},},
     {"id":{"name":"ObjDetector","path":"objects/ObjDetector/ObjDetector.yy",},},
     {"id":{"name":"ObjDifficulty","path":"objects/ObjDifficulty/ObjDifficulty.yy",},},
     {"id":{"name":"ObjFullscreen","path":"objects/ObjFullscreen/ObjFullscreen.yy",},},

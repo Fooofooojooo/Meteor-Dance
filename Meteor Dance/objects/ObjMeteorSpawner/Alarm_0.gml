@@ -1,3 +1,4 @@
+randomise();
 //set random speed and side speed for detector
 var sp = random_range(-0.5, 0.5);
 var fp = random(5) + 10;
