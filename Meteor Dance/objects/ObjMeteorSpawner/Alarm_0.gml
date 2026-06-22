@@ -1,6 +1,6 @@
 //set random speed and side speed for detector
 var sp = random_range(-0.5, 0.5);
-var fp = random(1) + 4;
+var fp = random(5) + 10;
 
 //spawn detector
 var detector = instance_create_layer(random(room_width - 8), -40, "Instances", ObjDetector);

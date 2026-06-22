@@ -8,8 +8,5 @@ if warning_time <= 0 && !spawned {
 	spawned = true;
 	meteor.side_speed = side_speed; //sideways speed of falling meteor
     meteor.fall_speed = fall_speed; //falling speed of falling meteor
-}
-
-if y > room_height + 32 {
 	instance_destroy();
 }
