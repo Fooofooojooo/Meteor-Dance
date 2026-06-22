@@ -7,4 +7,4 @@ var detector = instance_create_layer(random(room_width - 8), -40, "Instances", O
 detector.side_speed = sp;
 detector.fall_speed = fp;
 
-alarm[0] = room_speed * 2;
+alarm[0] = room_speed * 3; //seconds to wait before spawning a detector
