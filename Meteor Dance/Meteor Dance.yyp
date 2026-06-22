@@ -20,10 +20,12 @@
   "name":"Meteor Dance",
   "resources":[
     {"id":{"name":"ObjDetector","path":"objects/ObjDetector/ObjDetector.yy",},},
+    {"id":{"name":"ObjFullscreen","path":"objects/ObjFullscreen/ObjFullscreen.yy",},},
     {"id":{"name":"ObjMeteor","path":"objects/ObjMeteor/ObjMeteor.yy",},},
     {"id":{"name":"ObjMeteorSpawner","path":"objects/ObjMeteorSpawner/ObjMeteorSpawner.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"Space","path":"rooms/Space/Space.yy",},},
+    {"id":{"name":"SprDetector","path":"sprites/SprDetector/SprDetector.yy",},},
     {"id":{"name":"SprMeteor","path":"sprites/SprMeteor/SprMeteor.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
   ],

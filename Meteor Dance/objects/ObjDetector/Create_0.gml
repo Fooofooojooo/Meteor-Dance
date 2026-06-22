@@ -1,2 +1,6 @@
+side_speed = 0;
+fall_speed = 0;
+spawned = false;
+
 warning_time = room_speed * 2; //how long star glows before meteor
-x = random(room_width - 8);
+start_x = x;

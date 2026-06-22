@@ -1,7 +1,15 @@
+x += side_speed;
+y+= fall_speed;
+
+//detector spawn a meateor at its start_x and with its fall_speed and side_speed
 warning_time -= 1;
-if warning_time <= 0 {
-	var meteor = instance_create_layer(x, -40, "instances", ObjMeteor);
-	meteor.side_speed = random_range(-0.5, 0.5); //sideways speed of falling meteor
-    meteor.fall_speed = random(1) + 4; //falling speed of falling meteor
+if warning_time <= 0 && !spawned {
+	var meteor = instance_create_layer(start_x, -40, "instances", ObjMeteor);
+	spawned = true;
+	meteor.side_speed = side_speed; //sideways speed of falling meteor
+    meteor.fall_speed = fall_speed; //falling speed of falling meteor
+}
+
+if y > room_height + 32 {
 	instance_destroy();
 }
