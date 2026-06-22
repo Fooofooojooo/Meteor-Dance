@@ -1,2 +1,3 @@
 image_speed = 0;
-image_index = irandom(4) * 2;
+index = irandom(4) * 2
+image_index = index;
