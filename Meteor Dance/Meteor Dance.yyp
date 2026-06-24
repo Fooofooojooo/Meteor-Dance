@@ -24,6 +24,7 @@
     {"id":{"name":"ObjDetector","path":"objects/ObjDetector/ObjDetector.yy",},},
     {"id":{"name":"ObjDifficulty","path":"objects/ObjDifficulty/ObjDifficulty.yy",},},
     {"id":{"name":"ObjFullscreen","path":"objects/ObjFullscreen/ObjFullscreen.yy",},},
+    {"id":{"name":"ObjGameOver","path":"objects/ObjGameOver/ObjGameOver.yy",},},
     {"id":{"name":"ObjMeteor","path":"objects/ObjMeteor/ObjMeteor.yy",},},
     {"id":{"name":"ObjMeteorSpawner","path":"objects/ObjMeteorSpawner/ObjMeteorSpawner.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
@@ -33,6 +34,7 @@
     {"id":{"name":"ObjTitle","path":"objects/ObjTitle/ObjTitle.yy",},},
     {"id":{"name":"ObjTitleDecor","path":"objects/ObjTitleDecor/ObjTitleDecor.yy",},},
     {"id":{"name":"ObjTitleStars","path":"objects/ObjTitleStars/ObjTitleStars.yy",},},
+    {"id":{"name":"RomGameOver","path":"rooms/RomGameOver/RomGameOver.yy",},},
     {"id":{"name":"RomSpace","path":"rooms/RomSpace/RomSpace.yy",},},
     {"id":{"name":"RomTitle","path":"rooms/RomTitle/RomTitle.yy",},},
     {"id":{"name":"SprDetector","path":"sprites/SprDetector/SprDetector.yy",},},
@@ -48,6 +50,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"RomTitle","path":"rooms/RomTitle/RomTitle.yy",},},
     {"roomId":{"name":"RomSpace","path":"rooms/RomSpace/RomSpace.yy",},},
+    {"roomId":{"name":"RomGameOver","path":"rooms/RomGameOver/RomGameOver.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

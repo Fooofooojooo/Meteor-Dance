@@ -4,6 +4,8 @@ y = 768 + 32; //768 is bottom, +32 = sprite offscreen
 image_xscale = 2;
 image_yscale = 2;
 
+global.final_score = 0;
+
 key_left = vk_left;
 key_right = vk_right;
 
