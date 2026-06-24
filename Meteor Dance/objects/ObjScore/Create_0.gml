@@ -1,1 +1,1 @@
-score = 0;
+Custom_score = 0;

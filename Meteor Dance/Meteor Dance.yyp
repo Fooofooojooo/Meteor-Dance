@@ -37,6 +37,7 @@
     {"id":{"name":"RomTitle","path":"rooms/RomTitle/RomTitle.yy",},},
     {"id":{"name":"SprDetector","path":"sprites/SprDetector/SprDetector.yy",},},
     {"id":{"name":"SprMeteor","path":"sprites/SprMeteor/SprMeteor.yy",},},
+    {"id":{"name":"SprMeteorSpawner","path":"sprites/SprMeteorSpawner/SprMeteorSpawner.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
     {"id":{"name":"SprStar","path":"sprites/SprStar/SprStar.yy",},},
     {"id":{"name":"SprTitleDecor","path":"sprites/SprTitleDecor/SprTitleDecor.yy",},},

@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"SprMeteorSpawner",
+    "path":"sprites/SprMeteorSpawner/SprMeteorSpawner.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
