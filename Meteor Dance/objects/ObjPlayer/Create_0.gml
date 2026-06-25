@@ -14,3 +14,6 @@ friction_custom = 0.98;
 max_speed = 5;
 
 depth = -100;
+
+base_y = 700;
+bob_timer = 0;
