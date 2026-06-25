@@ -37,3 +37,6 @@ Source: Pixabay
 https://pixabay.com/nl/sound-effects/film-en-speciale-effecten-explosion-9-340460/
 
 Built with GameMaker as part of Hack Club Stardance.
+
+Debugging: Claude AI
+https://claude.ai
