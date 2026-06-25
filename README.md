@@ -1,5 +1,5 @@
 # Meteor Dance
-A space arcade game where a meteor shower is fast approaching your spacecraft. Don't panic just yet — the stars are dancing, and if you follow their rhythm, they'll light the path to safety.
+A space arcade game where a meteor shower is fast approaching your spacecraft. Don't panic just yet, the stars are dancing, and if you follow their rhythm, they'll light the path to safety.
 
 <img width="1361" height="762" alt="Screen 0 1" src="https://github.com/user-attachments/assets/93e8e498-d07d-4169-9a4c-57beb7c0c06c" />
 
